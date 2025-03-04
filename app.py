@@ -6,7 +6,7 @@ from pydantic import BaseModel
 app = FastAPI()
 
 # Load Groq API Key from Environment Variables
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 
 class Query(BaseModel):
     question: str
