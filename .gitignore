@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+*.db
+*.sqlite3
+
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# FastAPI
+*.log
+
+# Misc
+*.swp
+*.swo
